@@ -1,12 +1,15 @@
 #EXTM3U
  
-#EXTINF:-1,RCTI+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"
+group-title="INDONESIA",RCTI+
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
  
-#EXTINF:-1,RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"
+group-title="INDONESIA",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
  
-#EXTINF:-1,MNC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png"
+group-title="INDONESIA",MNC TV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
  
 #EXTINF:-1,MNC HD
